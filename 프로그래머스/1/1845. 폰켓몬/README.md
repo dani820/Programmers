@@ -82,3 +82,13 @@
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+
+<hr>
+
+**:exclamation::exclamation:문제를 차근차근 읽어보고 잘 이해하도록 하자...:exclamation::exclamation:**
+
+포인트는,
+```
+1. 포켓몬 중 N/2 마리를 가져갈 수 있다. (애초에 반환 가능한 최대값이 정해져 있음.)
+2. N/2 마리 안에서도 최대한 다양한 종류의 폰켓몬을 가지길 원한다. 이 때 같은 종류의 폰켓몬은 같은 번호를 가지므로 중복 값에 대한 검증이 필요하다.
+```
